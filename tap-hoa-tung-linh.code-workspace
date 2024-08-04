@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../noi-that-tuyen-lien"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tap-hoa-tung-linh"
+	}
+}
